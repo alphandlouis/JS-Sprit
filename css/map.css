@@ -1,0 +1,43 @@
+
+#map {
+	position: relative;
+	width: 480px;
+	margin: auto;
+}
+
+#resultMap {
+	width: 100%;
+	height: 100%;
+}
+
+td
+{
+  width:60px;
+  height:60px;
+  padding:0px;
+  background-size:cover;
+ 
+}
+
+td.water
+{
+	background-image:url("../img/water.gif");
+}
+
+td.grass
+{
+	background-image:url("../img/grass.png");
+}
+
+td.rock
+{
+	background-image:url("../img/rock.png");
+}
+
+td.block {
+	background-color: grey;
+}
+
+td.out {
+	background-color: maroon;
+}

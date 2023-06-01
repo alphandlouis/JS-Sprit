@@ -1,0 +1,184 @@
+#perso {
+	width: 60px;
+	height: 60px;
+	background-image: url('../img/spritmyperso.png');
+
+}
+
+.positionFace-1 {
+	background-position-x : 3px;
+	background-position-y : 110px;
+}
+
+.positionFace-2 {
+	background-position-x : 60px;
+	background-position-y : 110px;
+}
+
+.positionFace-3 {
+	background-position-x : 117px;
+	background-position-y : 110px;
+}
+
+.positionFace-4 {
+	background-position-x : 174px;
+	background-position-y : 110px;
+}
+
+.positionFace-5 {
+	background-position-x : 231px;
+	background-position-y : 110px;
+}
+
+.positionFace-6 {
+	background-position-x : 288px;
+	background-position-y : 110px;
+}
+.positionFace-7 {
+	background-position-x : 345px;
+	background-position-y : 110px;
+}
+
+.positionFace-8 {
+	background-position-x : 402px;
+	background-position-y : 110px;
+}
+
+.positionFace-9 {
+	background-position-x : 459px;
+	background-position-y : 110px;
+}
+
+.positionBack-1 {
+	background-position-x : 3px;
+	background-position-y : 223px;
+}
+
+.positionBack-2 {
+	background-position-x : 60px;
+	background-position-y : 223px;
+}
+
+.positionBack-3 {
+	background-position-x : 117px;
+	background-position-y : 223px;
+}
+
+.positionBack-4 {
+	background-position-x : 174px;
+	background-position-y : 223px;
+}
+
+.positionBack-5 {
+	background-position-x : 231px;
+	background-position-y : 223px;
+}
+
+.positionBack-6 {
+	background-position-x : 288px;
+	background-position-y : 223px;
+}
+.positionBack-7 {
+	background-position-x : 345px;
+	background-position-y : 223px;
+}
+
+.positionBack-8 {
+	background-position-x : 402px;
+	background-position-y : 223px;
+}
+
+.positionBack-9 {
+	background-position-x : 459px;
+	background-position-y : 223px;
+}
+
+
+.positionLeft-1 {
+	background-position-x : 3px;
+	background-position-y : 166px;
+}
+
+.positionLeft-2 {
+	background-position-x : 60px;
+	background-position-y : 166px;
+}
+
+.positionLeft-3 {
+	background-position-x : 117px;
+	background-position-y : 166px;
+}
+
+.positionLeft-4 {
+	background-position-x : 174px;
+	background-position-y : 166px;
+}
+
+.positionLeft-5 {
+	background-position-x : 231px;
+	background-position-y : 166px;
+}
+
+.positionLeft-6 {
+	background-position-x : 288px;
+	background-position-y : 166px;
+}
+.positionLeft-7 {
+	background-position-x : 345px;
+	background-position-y : 166px;
+}
+
+.positionLeft-8 {
+	background-position-x : 402px;
+	background-position-y : 166px;
+}
+
+.positionLeft-9 {
+	background-position-x : 459px;
+	background-position-y : 166px;
+}
+
+.positionRight-1 {
+	background-position-x : 3px;
+	background-position-y : 52px;
+}
+
+.positionRight-2 {
+	background-position-x : 60px;
+	background-position-y : 52px;
+}
+
+.positionRight-3 {
+	background-position-x : 117px;
+	background-position-y : 52px;
+}
+
+.positionRight-4 {
+	background-position-x : 174px;
+	background-position-y : 52px;
+}
+
+.positionRight-5 {
+	background-position-x : 231px;
+	background-position-y : 52px;
+}
+
+.positionRight-6 {
+	background-position-x : 288px;
+	background-position-y : 52px;
+}
+.positionRight-7 {
+	background-position-x : 345px;
+	background-position-y : 52px;
+}
+
+.positionRight-8 {
+	background-position-x : 402px;
+	background-position-y : 52px;
+}
+
+.positionRight-9 {
+	background-position-x : 459px;
+	background-position-y : 52px;
+}
+
